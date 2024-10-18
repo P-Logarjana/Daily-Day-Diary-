@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701314103482",
+    "project_id": "daily-day-diary",
+    "storage_bucket": "daily-day-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701314103482:android:6dd01f573b7c24eed7ea83",
+        "android_client_info": {
+          "package_name": "com.example.dailydaydiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHA7AVfVBHuC1qPbu7mf9wxelUUunJ3As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
