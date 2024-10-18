@@ -1,2 +1,2 @@
-# Daily-Day-Diary-
+# Daily-Day-Diary
 Mobile Application  using Android Studio 
